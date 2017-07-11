@@ -5,6 +5,7 @@
 
 $a = 3;
 $b = 5;
+$c = 2;
 echo "The result is : ";
 echo $a*$b;
 
